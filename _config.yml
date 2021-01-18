@@ -17,7 +17,7 @@ disqus_shortname: #disqus shortname
 
 user:
   name: Nokako
-  pic: /assets/img/cheese.jpg
+  pic: /assets/img/cheese.jpeg
   picAlt: "Nokako"
   job: human
   aboutme: true # comment this out if you don't need the 'about' page.
